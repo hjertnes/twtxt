@@ -5,4 +5,4 @@
 2020-06-30T12:51:50+02:00	I really like how simple the twtxt data format is
 2020-06-30T12:53:27+02:00	My current twtxt posting setup is: post from emacs, cronjob that commits it into a git repo that gets published through netlify to hjertnes.social
 2020-06-30T12:54:18+02:00	Currently use the twtxt cli program to read my timeline
-2020-06-30T16:27:14+02:00	@<jack http://tilde.club/~jbaty/twtxt.txt> 
+2020-06-30T16:27:14+02:00	@<jack http://tilde.club/~jbaty/twtxt.txt> some activity :O
