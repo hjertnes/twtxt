@@ -8,3 +8,5 @@
 2020-06-30T16:27:14+02:00	@<jack http://tilde.club/~jbaty/twtxt.txt> some activity :O
 2020-06-30T19:13:22+02:00	Seems like Emacs 27 will support .config/emacs in addition to .emacs and .emacs.d :D
 2020-06-30T19:19:07+02:00	Emacs 27 has a new elisp function: make-empty-file; will be awesome if your config needs a file to exist to work, like if you use a custom.el file or something
+2020-06-30T19:23:27+02:00	Emacs 27 has offical support for JSX
+
