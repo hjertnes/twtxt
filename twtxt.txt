@@ -15,3 +15,4 @@
 2020-06-30T19:32:52+02:00	Emacs 27 the news file for what is coming if you're interested https://github.com/emacs-mirror/emacs/blob/master/etc/NEWS.27
 2020-07-01T05:52:37+02:00	Good morning void
 2020-07-01T18:23:31+02:00	LinkedIn is really weird
+2020-07-01T18:36:22+02:00	This is so dumb. I bought three coloring books from a store, because then I would reach the point where I got free shipping. Except they had to order all three. And they are being sent as three seperate packages because they arrived at three different days.
