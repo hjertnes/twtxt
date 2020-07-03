@@ -23,3 +23,4 @@
 2020-07-02T18:02:30+02:00	Bitbucket are deleting HG repos today. My first thought: is that still around? 
 2020-07-03T05:04:18+02:00	@<jack http://tilde.club/~jbaty/twtxt.txt> Interesting. I never liked it. Git is terrible, but so am I. 
 2020-07-03T20:43:18+02:00	I really like the blue color of the Iroshizuku Shin Kai ink :D
+2020-07-03T20:43:38+02:00	After 5 days of using twtxt I got to say that it suits me really well. Mostly the fact that it is just a textfile 
