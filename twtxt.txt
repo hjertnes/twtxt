@@ -31,4 +31,5 @@
 2020-07-08T07:48:20+02:00	Interesting that the Facebook ad boycott continues
 2020-07-09T15:57:08+02:00	I like this idea https://pragprog.com/titles/d-gobrain/
 2020-07-10T08:52:57+02:00	Tom Hanks is on the latest episode of Hardcore History Addendum :o
-2020-07-10T20:31:27+02:00	The new special github repos are interesting. 
+2020-07-10T20:31:27+02:00	The new special github repos are interesting.
+2020-07-11T10:38:13+02:00	Finally started to remove stuff from my blog(hjertnes.blog) and deleting stuff and making a plan to migrate the stuff I want to keep over to my wiki (hjertnes.wiki)
