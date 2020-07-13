@@ -38,3 +38,5 @@
 2020-07-13T14:44:20+02:00	I'd move to https://sourcehut.org/ if I moved to anything
 2020-07-13T14:45:33+02:00	I may still start moving stuff there, but I really don't like the idea of having stuff multiple places. And I love how well Netlify works 
 2020-07-13T14:48:49+02:00	@<prologic https://prologic.github.io/twtxt.txt> nope. Look here https://github.com/hjertnes/hjertnes and here: https://github.com/hjertnes
+2020-07-13T14:49:38+02:00	@<prologic https://prologic.github.io/twtxt.txt> if you add a repo with the same name as your username you can use it to add things to your profile page. 
+
