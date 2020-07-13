@@ -37,3 +37,4 @@
 2020-07-13T14:39:36+02:00	I know I should probably move to something else than GitHub because of all the ICE stuff. But I use netlify for a lot of stuff, and the only services they support are GitHub, GitLab and Bitbucket. And I don't feel like any of them are better.
 2020-07-13T14:44:20+02:00	I'd move to https://sourcehut.org/ if I moved to anything
 2020-07-13T14:45:33+02:00	I may still start moving stuff there, but I really don't like the idea of having stuff multiple places. And I love how well Netlify works 
+2020-07-13T14:48:49+02:00	@<prologic https://prologic.github.io/twtxt.txt> nope. Look here https://github.com/hjertnes/hjertnes and here: https://github.com/hjertnes
