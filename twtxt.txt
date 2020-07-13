@@ -35,4 +35,4 @@
 2020-07-11T10:38:13+02:00	Finally started to remove stuff from my blog(hjertnes.blog) and deleting stuff and making a plan to migrate the stuff I want to keep over to my wiki (hjertnes.wiki)
 2020-07-13T14:12:40+02:00	@<prologic https://prologic.github.io/twtxt.txt> If you create a repo with the same name as your username you'll see :D
 2020-07-13T14:39:36+02:00	I know I should probably move to something else than GitHub because of all the ICE stuff. But I use netlify for a lot of stuff, and the only services they support are GitHub, GitLab and Bitbucket. And I don't feel like any of them are better.
-2020-07-13T14:44:20+02:00	I'd move to 
+2020-07-13T14:44:20+02:00	I'd move to https://sourcehut.org/ if I moved to anything 
