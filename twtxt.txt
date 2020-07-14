@@ -42,4 +42,6 @@
 2020-07-13T14:49:38+02:00	@<prologic https://prologic.github.io/twtxt.txt> if you add a repo with the same name as your username you can use it to add things to your profile page.
 2020-07-13T16:09:22+02:00	So tired of the shit show that is also known as The United States of America 
 2020-07-13T19:52:09+02:00	I like this client a lot https://github.com/quite/twet
-2020-07-14T05:56:56+02:00	@<prologic https://prologic.github.io/twtxt.txt> Cool. I love how I can configure it only to show the new stuff since last time I showed the timeline
+2020-07-14T05:56:56+02:00	@<prologic https://prologic.github.io/twtxt.txt> Cool. I love how I can configure it only to show the new stuff since last time I showed the timeline.
+2020-07-14T05:57:40+02:00	@<prologic https://prologic.github.io/twtxt.txt> I write all my posts in emacs and is very happy with that, but I'd love to hear more about your service :)
+2020-07-14T05:58:21+02:00	@<prologic https://prologic.github.io/twtxt.txt> The one thing I wish for twtxt was if there was a config file that contained all the non client specific stuff like following and url to twtxt etc
