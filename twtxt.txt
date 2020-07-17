@@ -49,4 +49,4 @@
 2020-07-15T09:55:39+02:00	I really like the Dracula Pro theme: https://draculatheme.com/pro
 2020-07-15T18:58:52+02:00	@<prologic https://prologic.github.io/twtxt.txt> https://xkcd.com/927/
 2020-07-17T05:49:31+02:00	@<prologic https://prologic.github.io/twtxt.txt> Replies is possible, but I agree that threads would be nice. But I don't see a good way to do it with a text file in a clean way
-Luna, our oldest dog left us yesterday, we gave her the best possible day, before going to the vet. We cried as she fell asleep and then I kept petting her until the second 
+Luna, our oldest dog left us yesterday, we gave her the best possible day, before going to the vet. We cried as she fell asleep from the first show, and then I 
