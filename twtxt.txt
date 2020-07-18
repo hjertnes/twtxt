@@ -57,3 +57,4 @@
 2020-07-18T08:09:57+02:00	Starting to move away from GitHub - step 1: download and delete everything archived
 2020-07-18T09:41:47+02:00	Started to move stuff from GitHub to here https://git.sr.ht/~hjertnes/
 2020-07-18T11:38:56+02:00	About half of my stuff have been migrated. The stuff that requires github/gitlab/bitbucket will be pushed to both Sourcehut and GitLab
+2020-07-18T16:29:57+02:00	For those who wonder, the reason I am moving away from GitHub is because they still continue to have ICE as a customer
