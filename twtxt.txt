@@ -54,4 +54,4 @@
 2020-07-17T22:52:40+02:00	Since GitHub continues to work with ICE I have decided to move all my stuff away from there. Probably to sourcehut. But I have some stuff that need to be on GitHub / GitLab / Bitbucket like Netlify related stuff. Haven't decided what to do with it yet.
 2020-07-18T08:07:22+02:00	@<kas https://enotty.dk/twtxt.txt> I have also seen people sort their twtxt files differently. I append, some prepend. If everyone appended it would work fine.
 2020-07-18T08:08:00+02:00	@<freemor https://freemor.homelinux.net/~freemor/twtxt.txt> Thank you.
-Starting to move away from GitHub
+2020-07-18T08:09:57+02:00	Starting to move away from GitHub - step 1: download and delete everything archived
