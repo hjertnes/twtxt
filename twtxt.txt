@@ -55,3 +55,4 @@
 2020-07-18T08:07:22+02:00	@<kas https://enotty.dk/twtxt.txt> I have also seen people sort their twtxt files differently. I append, some prepend. If everyone appended it would work fine.
 2020-07-18T08:08:00+02:00	@<freemor https://freemor.homelinux.net/~freemor/twtxt.txt> Thank you.
 2020-07-18T08:09:57+02:00	Starting to move away from GitHub - step 1: download and delete everything archived
+2020-07-18T09:41:47+02:00	Started to move stuff from GitHub to here https://git.sr.ht/~hjertnes/
