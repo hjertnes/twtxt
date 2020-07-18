@@ -50,6 +50,8 @@
 2020-07-15T18:58:52+02:00	@<prologic https://prologic.github.io/twtxt.txt> https://xkcd.com/927/
 2020-07-17T05:49:31+02:00	@<prologic https://prologic.github.io/twtxt.txt> Replies is possible, but I agree that threads would be nice. But I don't see a good way to do it with a text file in a clean way
 2020-07-17T20:12:00+02:00	Luna, our oldest dog left us yesterday. We gave her the best possible day we could give her, before going to the vet. We cried as she fell asleep from the first shot, and then I was alone while she left the world after the second shot. Petting her all the way to the end. I lost my best friend, and I feel horrible. 
-@<kas https://enotty.dk/twtxt.txt> I have also seen people sort their twtxt files differently. I append, some prepend. If everyone appended it would work fine.
 2020-07-17T22:48:09+02:00	Yesterday was a really weird day for me. I said goodbye to Luna and in the middle of it I accepted a job offer. I'll be leaving Sbanken and joining Knowit in the start of November.
-2020-07-17T22:52:40+02:00	Since GitHub continues to work with ICE I have decided to move all my stuff away from there. Probably to sourcehut. But I have some stuff that need to be on GitHub / GitLab / Bitbucket like Netlify related stuff. Haven't decided what to do with it yet. 
+2020-07-17T22:52:40+02:00	Since GitHub continues to work with ICE I have decided to move all my stuff away from there. Probably to sourcehut. But I have some stuff that need to be on GitHub / GitLab / Bitbucket like Netlify related stuff. Haven't decided what to do with it yet.
+2020-07-18T08:07:22+02:00	@<kas https://enotty.dk/twtxt.txt> I have also seen people sort their twtxt files differently. I append, some prepend. If everyone appended it would work fine.
+2020-07-18T08:08:00+02:00	@<freemor https://freemor.homelinux.net/~freemor/twtxt.txt> Thank you.
+2020-07-18T08:08:21+02:00	First st
