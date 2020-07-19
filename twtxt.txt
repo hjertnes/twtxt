@@ -59,4 +59,4 @@
 2020-07-18T11:38:56+02:00	About half of my stuff have been migrated. The stuff that requires github/gitlab/bitbucket will be pushed to both Sourcehut and GitLab
 2020-07-18T16:29:57+02:00	For those who wonder, the reason I am moving away from GitHub is because they still continue to have ICE as a customer
 2020-07-18T17:41:25+02:00	No offence to anyone writing any of them, but I feel like the web services for twtxt don't integrate well with those of us that prefer to have it as a text we can edit
-@<freemor https://freemor.homelinux.net/~freemor/twtxt.txt> I would not go that far, but it isn't something that would work for me. I think they should exist though. 
+2020-07-19T07:32:06+02:00	@<freemor https://freemor.homelinux.net/~freemor/twtxt.txt> I would not go that far, but it isn't something that would work for me. I think they should exist though. It would be awesome if anyone managed to create a service that got more people to use twtxt :) 
