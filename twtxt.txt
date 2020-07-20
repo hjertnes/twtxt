@@ -61,3 +61,4 @@
 2020-07-18T17:41:25+02:00	No offence to anyone writing any of them, but I feel like the web services for twtxt don't integrate well with those of us that prefer to have it as a text we can edit
 2020-07-19T07:32:06+02:00	@<freemor https://freemor.homelinux.net/~freemor/twtxt.txt> I would not go that far, but it isn't something that would work for me. I think they should exist though. It would be awesome if anyone managed to create a service that got more people to use twtxt :) 
 2020-07-19T16:05:52+02:00	@<prologic https://prologic.github.io/twtxt.txt> I think it is always important to understand that stuff isn't "wrong" just because it isn't for me :) 
+When I see a "mistakes junior devs make" I always want to write a "opinions senior devs have because it once was true 
