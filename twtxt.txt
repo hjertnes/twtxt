@@ -63,4 +63,4 @@
 2020-07-19T16:05:52+02:00	@<prologic https://prologic.github.io/twtxt.txt> I think it is always important to understand that stuff isn't "wrong" just because it isn't for me :) 
 2020-07-20T07:24:01+02:00	When I see a "mistakes junior devs make" I always want to write a "opinions senior devs have because it made sense at some point"
 2020-07-20T19:17:49+02:00	@<prologic https://twtxt.net/u/prologic> Multiple twtxt feeds on the same handle sounds like a mess. A unrealted comment: I wish it was easier to discover mentions... 
-@<kas https://enotty.dk/twtxt.txt> Thanks. I could, but then I had to change to a different hosting solution. 
+2020-07-20T20:28:50+02:00	@<kas https://enotty.dk/twtxt.txt> Thanks. I could, but then I had to change to a different hosting solution. 
