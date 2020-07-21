@@ -66,3 +66,4 @@
 2020-07-20T20:28:50+02:00	@<kas https://enotty.dk/twtxt.txt> Thanks. I could, but then I had to change to a different hosting solution. 
 2020-07-21T08:14:39+02:00	@<prologic https://prologic.github.io/twtxt.txt> (re post length) I don't even try to follow it. Probably becausse I never use any of the clients and write everything in emacs.
 2020-07-21T17:43:11+02:00	Let's check if the cronjobs on my new hosting works
+2020-07-21T20:29:08+02:00	Using Caddy as a web server was a fantastic experience; the only thing I didn't enjoy is that v2 isn't in Arch Linux yet.
