@@ -67,4 +67,4 @@
 2020-07-21T08:14:39+02:00	@<prologic https://prologic.github.io/twtxt.txt> (re post length) I don't even try to follow it. Probably becausse I never use any of the clients and write everything in emacs.
 2020-07-21T17:43:11+02:00	Let's check if the cronjobs on my new hosting works
 2020-07-21T20:29:08+02:00	Using Caddy as a web server was a fantastic experience; the only thing I didn't enjoy is that v2 isn't in Arch Linux yet.
-@<freemor https://freemor.homelinux.net/~freemor/twtxt.txt> I downloaded a snapshot of a AUR package. I have been using nginx for the last 10 years or so. It was pretty good, but I really like how 
+2020-07-22T10:05:41+02:00	@<freemor https://freemor.homelinux.net/~freemor/twtxt.txt> I downloaded a snapshot of a AUR package. I have been using nginx for the last 10 years or so. I really liked how little config was required to host some static files with https through lets encrypt
