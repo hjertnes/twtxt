@@ -71,3 +71,4 @@
 2020-07-22T10:17:44+02:00	@<freemor https://freemor.homelinux.net/~freemor/twtxt.txt> s/vim/emacs/g
 2020-07-22T18:32:05+02:00	Just took a look at firn(https://firn.theiceshelf.com/getting-started), interesting but if you want to build a website from a org file in a more complex way than pandoc allows(like I do here https://hjertnes.wiki and https://home.hjertnes.blog) I think ox-hugo works better because it just exports to hugo and let it do all the cms stuff
 2020-07-22T18:41:58+02:00	People were talking about ZSH earlier; used to use it. I have been using fish as my go to shell for over two years now.
+2020-07-22T20:18:21+02:00	I always forget about this: ssh user@host command, and really love it and use it all the time when I'm reminded. For when you would have ssh user@host typed some command and exited 
