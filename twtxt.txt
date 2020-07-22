@@ -1,3 +1,4 @@
+# 
 1970-01-01T00:00:00+02:00	The beginning
 2020-06-29T15:48:21+02:00	Hello World
 2020-06-29T18:35:02+02:00	Not sure what I am doing here. Couldn't resist the simplicity I guess?
@@ -71,4 +72,5 @@
 2020-07-22T10:17:44+02:00	@<freemor https://freemor.homelinux.net/~freemor/twtxt.txt> s/vim/emacs/g
 2020-07-22T18:32:05+02:00	Just took a look at firn(https://firn.theiceshelf.com/getting-started), interesting but if you want to build a website from a org file in a more complex way than pandoc allows(like I do here https://hjertnes.wiki and https://home.hjertnes.blog) I think ox-hugo works better because it just exports to hugo and let it do all the cms stuff
 2020-07-22T18:41:58+02:00	People were talking about ZSH earlier; used to use it. I have been using fish as my go to shell for over two years now.
-2020-07-22T20:18:21+02:00	I always forget about this: ssh user@host command, and really love it and use it all the time when I'm reminded. For when you would have ssh user@host typed some command and exited 
+2020-07-22T20:18:21+02:00	I always forget about this: ssh user@host command, and really love it and use it all the time when I'm reminded. For when you would have ssh user@host typed some command and exited
+2020-07-22T20:59:57+02:00	I think there is a lot of issues with the 30% cut Apple charge from AppStores developers in 2020. I thought it made some sense 12 years ago. At this point I think Apple should reduce it to a point where they more or less break even on it. And start charging extra for services that improve developers life. That would give them much better incentives for imroving things than the current model.
