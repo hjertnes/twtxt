@@ -69,3 +69,4 @@
 2020-07-21T20:29:08+02:00	Using Caddy as a web server was a fantastic experience; the only thing I didn't enjoy is that v2 isn't in Arch Linux yet.
 2020-07-22T10:05:41+02:00	@<freemor https://freemor.homelinux.net/~freemor/twtxt.txt> I downloaded a snapshot of a AUR package. I have been using nginx for the last 10 years or so. I really liked how little config was required to host some static files with https through lets encrypt
 2020-07-22T10:17:44+02:00	@<freemor https://freemor.homelinux.net/~freemor/twtxt.txt> s/vim/emacs/g
+2020-07-22T18:32:05+02:00	Just took a look at firn(https://firn.theiceshelf.com/getting-started), interesting but if you want to build a website from a org file in a more complex way than pandoc allows(like I do here https://hjertnes.wiki and https://home.hjertnes.blog) I think ox-hugo works better because it just exports to hugo and let it do all the cms stuff
