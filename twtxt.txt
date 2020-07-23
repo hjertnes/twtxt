@@ -90,3 +90,4 @@
 2020-07-22T18:41:58+02:00	People were talking about ZSH earlier; used to use it. I have been using fish as my go to shell for over two years now.
 2020-07-22T20:18:21+02:00	I always forget about this: ssh user@host command, and really love it and use it all the time when I'm reminded. For when you would have ssh user@host typed some command and exited
 2020-07-22T20:59:57+02:00	I think there is a lot of issues with the 30% cut Apple charge from AppStores developers in 2020. I thought it made some sense 12 years ago. At this point I think Apple should reduce it to a point where they more or less break even on it. And start charging extra for services that improve developers life. That would give them much better incentives for imroving things than the current model.
+2020-07-23T07:50:12+02:00	@<prologic https://twtxt.net/u/prologic> Do you also include User-Agent with followers when you fetch feeds?
