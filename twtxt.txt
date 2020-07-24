@@ -93,3 +93,4 @@
 2020-07-23T07:50:12+02:00	@<prologic https://twtxt.net/u/prologic> Do you also include User-Agent with followers when you fetch feeds?
 2020-07-24T16:23:13+02:00	Posted something to my blog: https://hjertnes.blog/posts/2020-07-24-wiki/
 2020-07-24T16:23:10+02:00	Posted something to my blog: https://hjertnes.blog/posts/2020-07-24-likes/
+2020-07-24T16:23:50+02:00	(re-posted since you didn't answer 😜) @<prologic https://twtxt.net/u/prologic> Do you also include User-Agent with followers when you fetch feeds?
