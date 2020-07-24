@@ -94,4 +94,4 @@
 2020-07-24T16:23:13+02:00	Posted something to my blog: https://hjertnes.blog/posts/2020-07-24-wiki/
 2020-07-24T16:23:10+02:00	Posted something to my blog: https://hjertnes.blog/posts/2020-07-24-likes/
 2020-07-24T16:23:50+02:00	(re-posted since you didn't answer 😜) @<prologic https://twtxt.net/u/prologic> Do you also include User-Agent with followers when you fetch feeds?
-@<prologic https://twtxt.net/u/prologic> What if you made a url 
+2020-07-24T17:10:15+02:00	@<prologic https://twtxt.net/u/prologic> What if you include a url in the header where one could see the followers of your feed?
