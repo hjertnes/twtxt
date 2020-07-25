@@ -96,3 +96,4 @@
 2020-07-24T16:23:50+02:00	(re-posted since you didn't answer 😜) @<prologic https://twtxt.net/u/prologic> Do you also include User-Agent with followers when you fetch feeds?
 2020-07-24T17:10:15+02:00	@<prologic https://twtxt.net/u/prologic> What if you include a url in the header where one could see the followers of your feed?
 2020-07-24T20:40:52+02:00	I'd love all twtxt client developers to adopt a shared config for all the stuff that is the same on all clients like this one: https://hjertnes.social/config.yaml And then place all the client specific stuff in a different file 
+2020-07-25T08:01:15+02:00	@<prologic https://twtxt.net/u/prologic> (re include URL of followers) followers and mentions are not the same though. 
