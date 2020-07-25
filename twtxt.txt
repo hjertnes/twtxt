@@ -101,4 +101,5 @@
 2020-07-25T11:47:40+02:00	@<prologic https://twtxt.net/u/prologic> My point is that: when a user fetches my feed with for example twtxt or twet and they have it enabled I can see who they are in my web server logs. Great for discovery and such. But I assume you only fetch feeds globally and not once per user? Not that important. If I see a fetch from twtxt.net in my web server logs I'd love to have a way to see who follows me there. 
 2020-07-25T11:48:47+02:00	@<prologic https://twtxt.net/u/prologic> Where should I file the issue?
 2020-07-25T12:31:06+02:00	@<prologic https://twtxt.net/u/prologic> issues created :)
-2020-07-25T13:20:47+02:00	@<prologic https://twtxt.net/u/prologic> I have some fetches from it. But I don't see them because I strip out various stuff in my parser program (https://git.sr.ht/~hjertnes/caddyLogParser/tree/master/main.go). Basically various bots plus anything not containing http or https. 
+2020-07-25T13:20:47+02:00	@<prologic https://twtxt.net/u/prologic> I have some fetches from it. But I don't see them because I strip out various stuff in my parser program (https://git.sr.ht/~hjertnes/caddyLogParser/tree/master/main.go). Basically various bots plus anything not containing http or https.
+@<prologic https://twtxt.net/u/prologic> (re-polling interval) you could probably to a HEAD request and see if Last-Updated 
