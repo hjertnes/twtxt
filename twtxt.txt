@@ -104,3 +104,4 @@
 2020-07-25T13:20:47+02:00	@<prologic https://twtxt.net/u/prologic> I have some fetches from it. But I don't see them because I strip out various stuff in my parser program (https://git.sr.ht/~hjertnes/caddyLogParser/tree/master/main.go). Basically various bots plus anything not containing http or https.
 2020-07-25T16:01:45+02:00	@<prologic https://twtxt.net/u/prologic> (re-polling interval) You could probably do a HEAD request prior to the GET, and check if the Content-Length header have changed.
 2020-07-25T16:22:56+02:00	@<prologic https://twtxt.net/u/prologic> Are you trying to get me to contribute to stuff I don't use? 😅
+2020-07-25T16:25:48+02:00	@<prologic https://twtxt.net/u/prologic> And I think most web servers like caddy and nginx does HEAD correctly out of the box for static files
