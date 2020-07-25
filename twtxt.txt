@@ -102,4 +102,5 @@
 2020-07-25T11:48:47+02:00	@<prologic https://twtxt.net/u/prologic> Where should I file the issue?
 2020-07-25T12:31:06+02:00	@<prologic https://twtxt.net/u/prologic> issues created :)
 2020-07-25T13:20:47+02:00	@<prologic https://twtxt.net/u/prologic> I have some fetches from it. But I don't see them because I strip out various stuff in my parser program (https://git.sr.ht/~hjertnes/caddyLogParser/tree/master/main.go). Basically various bots plus anything not containing http or https.
-2020-07-25T16:01:45+02:00	@<prologic https://twtxt.net/u/prologic> (re-polling interval) You could probably do a HEAD request prior to the GET, and check if the Content-Length header have changed. 
+2020-07-25T16:01:45+02:00	@<prologic https://twtxt.net/u/prologic> (re-polling interval) You could probably do a HEAD request prior to the GET, and check if the Content-Length header have changed.
+2020-07-25T16:22:56+02:00	@<prologic https://twtxt.net/u/prologic> Are you trying to get me to contribute to stuff I don't use? 😅
