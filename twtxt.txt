@@ -97,4 +97,5 @@
 2020-07-26T11:47:53+02:00	@<prologic https://twtxt.net/u/prologic> just a script to post the last line of my twtxt to mastodon
 2020-07-26T12:25:12+02:00	@<prologic https://twtxt.net/u/prologic> It's not that hard to run a Mastodon instance. But there are some moving pieces. I use [[https://masto.host]] to host my Instance. I don't need it, but I wanted a script to run when I have written something in this file, that I also want to post there. Saves me a few seconds compared to copy pasting it somewhere. 
 2020-07-26T13:41:40+02:00	@<prologic https://twtxt.net/u/prologic> writing dumb scripts like this [[https://paste.sr.ht/~hjertnes/daa656a0f6a1cc1901fac88f3bcedefee79e8d3c]] is why I love when stuff is just a file on my laptop.
-2020-07-26T14:20:22+02:00	@<prologic https://twtxt.net/u/prologic> Would that API also let you replace the twtxt file on your server? 
+2020-07-26T14:20:22+02:00	@<prologic https://twtxt.net/u/prologic> Would that API also let you replace the twtxt file on your server?T
+2020-07-26T16:03:02+02:00	@<prologic https://twtxt.net/u/prologic> That I can download the file, alter it as I want and replace that file with the one on your server.
