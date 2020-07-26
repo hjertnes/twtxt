@@ -96,4 +96,4 @@
 2020-07-26T10:23:43+02:00	Testing something
 2020-07-26T11:47:53+02:00	@<prologic https://twtxt.net/u/prologic> just a script to post the last line of my twtxt to mastodon
 2020-07-26T12:25:12+02:00	@<prologic https://twtxt.net/u/prologic> It's not that hard to run a Mastodon instance. But there are some moving pieces. I use [[https://masto.host]] to host my Instance. I don't need it, but I wanted a script to run when I have written something in this file, that I also want to post there. Saves me a few seconds compared to copy pasting it somewhere. 
-@<prologic https://twtxt.net/u/prologic> writing 
+2020-07-26T13:41:40+02:00	@<prologic https://twtxt.net/u/prologic> writing dumb scripts like this [[https://paste.sr.ht/~hjertnes/daa656a0f6a1cc1901fac88f3bcedefee79e8d3c]] is why I love when stuff is just a file on my laptop. 
