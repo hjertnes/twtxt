@@ -94,4 +94,3 @@
 2020-07-25T22:00:26+02:00	Yeah, I use org-mode formatting instead of markdown
 2020-07-26T08:00:19+02:00	@<prologic https://twtxt.net/u/prologic> (re tw.txt) no, but I meant the file name. Most people have something like twtxt.txt; just wonder why it isn't tw.txt
 2020-07-26T10:23:43+02:00	Testing something
-
