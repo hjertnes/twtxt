@@ -1,6 +1,7 @@
 nick: hjertnes
 url: https://hjertnes.social/twtxt.txt
 file: ~/txt/twtxt.txt
+discloseidentity: true
 following:
   71m: https://timmorgan.org/twtxt.txt
   abliss: https://abliss.keybase.pub/twtxt.txt#7a778276dd852edc65217e759cba637a28b4426b
