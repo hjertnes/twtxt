@@ -99,3 +99,4 @@
 2020-07-26T13:41:40+02:00	@<prologic https://twtxt.net/u/prologic> writing dumb scripts like this [[https://paste.sr.ht/~hjertnes/daa656a0f6a1cc1901fac88f3bcedefee79e8d3c]] is why I love when stuff is just a file on my laptop.
 2020-07-26T14:20:22+02:00	@<prologic https://twtxt.net/u/prologic> Would that API also let you replace the twtxt file on your server?T
 2020-07-26T16:03:02+02:00	@<prologic https://twtxt.net/u/prologic> That I can download the file, alter it as I want and replace that file with the one on your server.
+2020-07-27T19:26:10+02:00	Kind of made a twtxt client https://git.sr.ht/~hjertnes/tw.txt 🙈
