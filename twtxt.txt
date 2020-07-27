@@ -101,3 +101,4 @@
 2020-07-26T16:03:02+02:00	@<prologic https://twtxt.net/u/prologic> That I can download the file, alter it as I want and replace that file with the one on your server.
 2020-07-27T19:26:10+02:00	Kind of made a twtxt client https://git.sr.ht/~hjertnes/tw.txt 🙈
 2020-07-27T20:02:54+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> 👋
+2020-07-27T20:09:06+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> 🤓
