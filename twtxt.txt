@@ -106,3 +106,4 @@
 2020-07-28T15:30:42+02:00	Added a bunch of stuff to [[https://git.sr.ht/~hjertnes/tw.txt][twtxt]]: follow, unfollow, tweet, more edit functions to cover both the config files. And replace mentions if you want to replace @handle with @<handle url> for example after writing in the file using your text editor
 2020-07-28T16:42:29+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> doesn't everyone use the RFC3339 timestamps?
 2020-07-28T18:33:22+02:00	default git branch changed to trunk
+2020-07-28T21:04:30+02:00	Instead of trying to find photo web services I enjoy, I'm just going to make albums in Photos.app on my Mac
