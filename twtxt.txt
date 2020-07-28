@@ -103,4 +103,4 @@
 2020-07-27T20:02:54+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> 👋
 2020-07-27T20:09:06+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> 🤓
 2020-07-28T06:42:42+02:00	@<prologic https://twtxt.net/u/prologic> (re tw.txt) I know, never said I'd implement them 🙈. But I have implemented a version of our "common config file" idea 
-2020-07-28T15:30:42+02:00	Added a bunch of stuff to [[]]
+2020-07-28T15:30:42+02:00	Added a bunch of stuff to [[https://git.sr.ht/~hjertnes/tw.txt][twtxt]]: follow, unfollow, tweet 
