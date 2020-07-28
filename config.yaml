@@ -1,9 +1,9 @@
 nick: hjertnes
 url: https://hjertnes.social/twtxt.txt
 file: ~/txt/twtxt.txt
-discloseidentity: true
 following:
   71m: https://timmorgan.org/twtxt.txt
+  a: b
   akraut: https://akraut.keybase.pub/twtxt.txt
   alip: https://dev.exherbo.org/~alip/twtxt.txt
   autoalk: http://autoalk.tk/twtxt/autoalk.txt
@@ -45,6 +45,7 @@ following:
   nblade: http://nblade.sdf.org/twtxt/twtxt.txt
   nonlinear: https://nonlinear.radiofreqs.space/twtxt.txt
   oevl: https://oevl.info/twtxt.txt
+  paulbatchelor: http://paulbatchelor.github.io/twtxt.txt
   pelmel: http://pelmel.org/twtxt.txt
   prologic: https://twtxt.net/user/prologic/twtxt.txt
   quite: https://lublin.se/twtxt.txt
@@ -61,4 +62,4 @@ following:
   vinc: https://vinc.cc/twtxt.txt
   von: https://tilde.town/~von/twtxt.txt
   xandkar: https://xandkar.net/twtxt.txt
-  paulbatchelor: http://paulbatchelor.github.io/twtxt.txt
+discloseidentity: true
