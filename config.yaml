@@ -3,6 +3,7 @@ url: https://hjertnes.social/twtxt.txt
 file: ~/txt/twtxt.txt
 following:
   71m: https://timmorgan.org/twtxt.txt
+  adiabatic: https://www.frogorbits.com/twtxt.txt
   akraut: https://akraut.keybase.pub/twtxt.txt
   alip: https://dev.exherbo.org/~alip/twtxt.txt
   autoalk: http://autoalk.tk/twtxt/autoalk.txt
@@ -23,7 +24,6 @@ following:
   gil: https://tilde.pt/~gil/twtxt.txt
   golang_news: https://feeds.twtxt.net/golang_news/twtxt.txt
   hjertnes: https://hjertnes.social/twtxt.txt
-  adiabatic: https://www.frogorbits.com/twtxt.txt
   iolfree: https://tilde.club/~iolfree/twtxt.txt
   jack: http://tilde.club/~jbaty/twtxt.txt
   jb55: https://jb55.com/twtxt.txt
@@ -62,3 +62,4 @@ following:
   von: https://tilde.town/~von/twtxt.txt
   xandkar: https://xandkar.net/twtxt.txt
 discloseidentity: true
+: true
