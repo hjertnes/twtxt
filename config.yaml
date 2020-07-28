@@ -3,7 +3,6 @@ url: https://hjertnes.social/twtxt.txt
 file: ~/txt/twtxt.txt
 following:
   71m: https://timmorgan.org/twtxt.txt
-  a: b
   akraut: https://akraut.keybase.pub/twtxt.txt
   alip: https://dev.exherbo.org/~alip/twtxt.txt
   autoalk: http://autoalk.tk/twtxt/autoalk.txt
@@ -63,3 +62,4 @@ following:
   von: https://tilde.town/~von/twtxt.txt
   xandkar: https://xandkar.net/twtxt.txt
 discloseidentity: true
+: true
