@@ -1,6 +1,6 @@
 nick: hjertnes
 url: https://hjertnes.social/twtxt.txt
-file: ~/txt/twtxt.txt
+file: ~/Code/twtxt/twtxt.txt
 following:
   71m: https://timmorgan.org/twtxt.txt
   adiabatic: https://www.frogorbits.com/twtxt.txt
