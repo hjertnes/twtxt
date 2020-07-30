@@ -116,3 +116,4 @@
 2020-07-30T11:51:36+02:00	time to write some unit tests for tw.txt 🥳
 2020-07-30T12:09:59+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re-archive) to add a pagination thing that makes sense is easy for you running it behind a proper backend, but a lot of us prefer just having files behind some web server, and then it isn't trivial. I like the year idea. Or just having a huge ass twtxt-archive.txt file
 2020-07-30T17:09:55+02:00	Pushed v0.5.0 of tw.txt. Not a lot new, but I have the features I want and I have written tests and fixed all the linting errors 🤷‍♂️
+2020-07-30T17:46:14+02:00	GoLand 2020.2 is out! https://blog.jetbrains.com/go/2020/07/30/introducing-goland-2020-2/
