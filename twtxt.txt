@@ -119,4 +119,4 @@
 2020-07-30T17:46:14+02:00	GoLand 2020.2 is out! https://blog.jetbrains.com/go/2020/07/30/introducing-goland-2020-2/
 2020-07-30T19:46:52+02:00	Seems like Emacs 27 RC1 is out!
 2020-07-30T20:15:04+02:00	My plans on doing a "100th line in my twtxt" didn't work out, as this is line 121 *facepalm*
-2020-07-30T20:19:58+02:00	 Seems like Emacs 27.1 will be released in a week http://git.savannah.gnu.org/cgit/emacs.git/tree/etc/HISTORY?h=emacs-27&id=27877e7bcfa37b2c97a3dde170f870d4729ff807
+2020-07-30T20:19:58+02:00	Seems like Emacs 27.1 will be released in a week http://git.savannah.gnu.org/cgit/emacs.git/tree/etc/HISTORY?h=emacs-27&id=27877e7bcfa37b2c97a3dde170f870d4729ff807
