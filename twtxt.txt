@@ -114,3 +114,4 @@
 2020-07-30T07:53:03+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re archive) maybe we should have a convention for the name of this that doesn't require backend software?
 2020-07-30T09:19:33+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re archive) or maybe some discovery config file?
 2020-07-30T11:51:36+02:00	time to write some unit tests for tw.txt 🥳
+2020-07-30T12:09:59+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re-archive) to add a pagination thing that makes sense is easy for you running it behind a proper backend, but a lot of us prefer just having files behind some web server, and then it isn't trivial. I like the year idea. Or just having a huge ass twtxt-archive.txt file
