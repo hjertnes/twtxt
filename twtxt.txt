@@ -112,3 +112,4 @@
 2020-07-29T16:54:39+02:00	I'm not that worried about ML/AI turning into Terminators before I can tell Photos.app: Make a album of all the pictures of <insert dog name here>.
 2020-07-29T18:48:30+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> https://media.giphy.com/media/TlK63Euc9KArc2a0kEw/giphy.gif
 2020-07-30T07:53:03+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re archive) maybe we should have a convention for the name of this that doesn't require backend software?
+2020-07-30T09:19:33+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re archive) or maybe some discovery config file?
