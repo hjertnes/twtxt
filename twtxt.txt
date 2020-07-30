@@ -1,7 +1,3 @@
-# TWTXT
-# followers, and more in config below
-# config = /config.yaml
-# <a rel="me" href="https://dog.estate/@hjertnes">Mastodon</a>
 1970-01-01T00:00:00+02:00	The beginning
 2020-06-29T15:48:21+02:00	Hello World
 2020-06-29T18:35:02+02:00	Not sure what I am doing here. Couldn't resist the simplicity I guess?
