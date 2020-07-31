@@ -126,4 +126,4 @@
 2020-07-31T10:20:40+02:00@<golang_news https://feeds.twtxt.net/golang_news/twtxt.txt>(re-not american) All nationalities should be welcome. But I think it is important to keep in mind that people most likely have different experiences, opertunities and life than you have
 2020-07-31T10:23:33+02:00	@<kt84 https://twtxt.net/user/kt84/twtxt.txt> (re-voting) it is very common with low voter participation hre too. Here they are trying to make it as easy as possible to vote to improve it. For example that you can walk in any pre-vote location for like a month before election day. Instead of the current trend of trying to keep people from voting in the US.
 2020-07-31T16:52:42+02:00	What fonts are everyone using in their text editors and terminals these days?
-2020-07-31T17:48:53+02:00	@<eli_oat, https://txt.eli.li/twtxt/twtxt.txt> @<prologic, https://twtxt.net/user/prologic/twtxt.txt> I'm still on Jetbrains Mono
+2020-07-31T17:48:53+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> I'm still on Jetbrains Mono
