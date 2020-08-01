@@ -130,3 +130,4 @@
 2020-07-31T19:42:21+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> what lisp?
 2020-08-01T10:16:59+02:00	https://thoughtcatalog.com/erin-cossetta/2018/06/cheese-puns/
 2020-08-01T20:08:12+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> 🤷‍♀️
+2020-08-01T20:09:04+02:00	Been working on a html timeline export for tw.txt today. Not sure why.
