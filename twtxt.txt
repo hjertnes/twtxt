@@ -120,7 +120,7 @@
 2020-07-30T19:46:52+02:00	Seems like Emacs 27 RC1 is out!
 2020-07-30T20:15:04+02:00	My plans on doing a "100th line in my twtxt" didn't work out, as this is line 121 *facepalm*
 2020-07-30T20:19:58+02:00	Seems like Emacs 27.1 will be released in a week http://git.savannah.gnu.org/cgit/emacs.git/tree/etc/HISTORY?h=emacs-27&id=27877e7bcfa37b2c97a3dde170f870d4729ff807
-2020-07-30T20:34:17+02:00	My mastodon if anyone are into that: https://dog.estate/@<hjertnes https://hjertnes.social/twtxt.txt>
+2020-07-30T20:34:17+02:00	My mastodon if anyone are into that: https://dog.estate/@hjertnes
 2020-07-30T21:30:00+02:00	Flush the turd November third: https://daringfireball.net/linked/2020/07/30/trump-floats-delaying-election
 2020-07-31T07:08:27+02:00	@<kt84 https://twtxt.net/user/kt84/twtxt.txt> I'm not American
 2020-07-31T10:20:40+02:00@<golang_news https://feeds.twtxt.net/golang_news/twtxt.txt>(re-not american) All nationalities should be welcome. But I think it is important to keep in mind that people most likely have different experiences, opertunities and life than you have
