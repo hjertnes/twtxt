@@ -52,5 +52,5 @@ h6:before {
 }
 
 .myself {
-    background-color: red;
+    background-color: var(--grey);
 }
