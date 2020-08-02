@@ -48,9 +48,9 @@ h5:before {
 }
 
 h6:before {
-    content: "###### 
+    content: "###### ";
 }
 
 .myself {
-	background: grey;
+    background-color: grey;
 }
