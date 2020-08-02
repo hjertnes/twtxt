@@ -1,7 +1,6 @@
 :root {
     --white: #FEFEFE;
     --black: #0A0A0A;
-    --grey: #DDDDD;
 }
 
 img{
@@ -53,5 +52,5 @@ h6:before {
 }
 
 .myself {
-    background-color: var(--grey);
+    font-weight: bolder;
 }
