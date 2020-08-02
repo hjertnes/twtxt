@@ -2,6 +2,7 @@
     --white: #FEFEFE;
     --black: #0A0A0A;
     --blue: #0000CD;
+    --yellow: #FFFF00;
 }
 
 img{
@@ -52,7 +53,7 @@ h6:before {
     content: "###### ";
 }
 
-.myself {
+.by-myself {
     font-weight: bolder;
     color: var(--blue);
 }
