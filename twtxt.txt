@@ -135,3 +135,4 @@
 2020-08-01T22:52:00+02:00	@<mox https://tilde.town/~mox/twtxt.txt> I have been bothering @<prologic https://twtxt.net/user/prologic/twtxt.txt> with some complicating suggestions to make [[twtxt.net]] usable for those of us that like to have our twtxt.txt file as a file
 2020-08-02T07:02:53+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> isn't blank here 🤔
 2020-08-02T07:23:13+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re-avatar) not sure what it is, but sure?
+2020-08-02T08:24:11+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re-avatar) okay. How do I do that?
