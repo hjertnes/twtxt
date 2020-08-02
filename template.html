@@ -10,10 +10,10 @@
 </head>
 <body>
   <h1>Hjertnes' twtxt timeline</h1>
-  <p>Rendered on {{.Timestamp}}
+  <p>Rendered on {{.Timestamp}} </p>
     {{ range .Timeline }}
     
-    <p>
+    <p class={{.Classes}}>
         <h2><a href="{{ .URL }}">@{{ .Handle }}</a> on {{ .Timestamp.Format "2006-01-02T15:04:05" }}</h2>
         {{ .Message }}
     </p>
