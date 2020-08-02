@@ -2,7 +2,7 @@
     --white: #FEFEFE;
     --black: #0A0A0A;
     --blue: #0000CD;
-    --yellow: #FFFF00;
+    --purple: #8A2BE2;
 }
 
 img{
@@ -60,6 +60,6 @@ h6:before {
 
 .mentioned {
     font-weight: bolder;
-    color: var(--yellow);    
+    color: var(--purple); 
     
 }
