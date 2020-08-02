@@ -1,7 +1,7 @@
 :root {
     --white: #FEFEFE;
     --black: #0A0A0A;
-    --blue: 
+    --blue: #191970;
 }
 
 img{
@@ -54,4 +54,5 @@ h6:before {
 
 .myself {
     font-weight: bolder;
+    color: var(--blue);
 }
