@@ -57,3 +57,9 @@ h6:before {
     font-weight: bolder;
     color: var(--blue);
 }
+
+.mentioned {
+    font-weight: bolder;
+    color: var(--yellow);    
+    
+}
