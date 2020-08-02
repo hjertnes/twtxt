@@ -49,3 +49,8 @@ h5:before {
 
 h6:before {
     content: "###### 
+}
+
+.myself {
+	background: grey;
+}
