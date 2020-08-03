@@ -143,3 +143,4 @@
 2020-08-03T07:42:19+02:00	(re-wiki) @<eli_oat https://txt.eli.li/twtxt/twtxt.txt> details?
 2020-08-03T08:48:46+02:00	(re-wiki) @<eli_oat https://txt.eli.li/twtxt/twtxt.txt> still using org?
 2020-08-03T09:24:41+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> I'm lost
+2020-08-03T10:12:24+02:00	Unfollwoed a bunch of people on the same domain because of a giant rant of duplicated posts on every single feed about some clients not caching properly. Unrelated note, I'm working on caching tw.txt
