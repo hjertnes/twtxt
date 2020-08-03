@@ -148,3 +148,4 @@
 2020-08-03T18:40:34+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> Not you :) I'd reach out to you in a non public way to resolve it in a nice way if I had any problems with anything :)
 2020-08-03T20:33:14+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> SQL <3
 2020-08-03T21:08:37+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> (re-sql) SQL makes a lot more sense, than a lot of software stuff, if you use a good SQL engine and have a well designed database and are willing to spend some time getting it right. Or just use a GOOD ORM.
+2020-08-03T21:13:41+02:00	Yay! I found a Norwegian web shot where I can order dried chilli
