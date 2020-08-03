@@ -140,3 +140,4 @@
 2020-08-02T20:55:29+02:00	Unpopular opinion I really hate regex, so I started to tinker with this https://git.sr.ht/~hjertnes/patterns
 2020-08-02T21:27:59+02:00	I love the simplicity of go package management
 2020-08-03T07:39:23+02:00	(re-regex) @<lukem https://twtxt.net/user/lukem/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> I don't know, I hate them at the point where I don't use them unless people force me too in code review at work. I think most people either love them or accept them
+2020-08-03T07:42:19+02:00	(re-wiki) @<eli_oat https://txt.eli.li/twtxt/twtxt.txt> details?
