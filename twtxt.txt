@@ -150,3 +150,4 @@
 2020-08-03T21:08:37+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> (re-sql) SQL makes a lot more sense, than a lot of software stuff, if you use a good SQL engine and have a well designed database and are willing to spend some time getting it right. Or just use a GOOD ORM.
 2020-08-03T21:13:41+02:00	Yay! I found a Norwegian web shot where I can order dried chilli
 2020-08-03T21:16:09+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> not sure what hurting a horse has to do with SQL...
+2020-08-04T10:47:13+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> what exactly do you mean by federation for twtxt.txt?
