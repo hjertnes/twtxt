@@ -152,3 +152,4 @@
 2020-08-03T21:16:09+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> not sure what hurting a horse has to do with SQL...
 2020-08-04T10:47:13+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> what exactly do you mean by federation for twtxt.net?
 2020-08-04T10:52:41+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> I don't think it would be a good fit for the txt file mindset of twtxt to adopt something like ActivityPub.
+2020-08-04T10:53:33+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> My first thought would have been to maintain the needed data in our config.yaml, and expose everything needed in there. 
