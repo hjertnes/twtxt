@@ -153,4 +153,5 @@
 2020-08-04T10:47:13+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> what exactly do you mean by federation for twtxt.net?
 2020-08-04T10:52:41+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> I don't think it would be a good fit for the txt file mindset of twtxt to adopt something like ActivityPub.
 2020-08-04T10:53:33+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> My first thought would have been to maintain the needed data in our config.yaml, and expose everything needed in there. 
-2020-08-05T08:05:26+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> @<lukem https://twtxt.net/user/lukem/twtxt.txt> Netlify is awesome, I used to use it for all of my stuff until recently
+2020-08-05T08:05:26+02:00	@<prologic https://twtxt.net/user/prologic/twtssxt.txt> @<lukem https://twtxt.net/user/lukem/twtxt.txt> Netlify is awesome, I used to use it for all of my stuff until recently
+2020-08-05T09:00:33+02:00	No idea why, but I always really enjoy writing unit tests and fixing / refactoring things as a part of that. 
