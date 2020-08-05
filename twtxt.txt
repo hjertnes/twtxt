@@ -159,3 +159,4 @@
 2020-08-05T10:52:35+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re-unit testing) I would, if I used it. If I were you, I would instead make implementing unit test and fixing linting on the parts that have been touched in a PR requirement for approval
 2020-08-05T20:27:54+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> k8 seems to be the go to way these days, if you need a cluster. I still think just regular docker-compose is a good strategy if you just have one or a few hosts
 2020-08-05T20:43:27+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re-microblogging length) I don't think there should be a hard limit, but I do think it is a good idea to not encourage too long posts. I'm much more likely to read stuff that isn't too long
+2020-08-05T20:51:54+02:00	Emacs 27 RC2 is out!
