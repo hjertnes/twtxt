@@ -156,3 +156,4 @@
 2020-08-05T08:05:26+02:00	@<prologic https://twtxt.net/user/prologic/twtssxt.txt> @<lukem https://twtxt.net/user/lukem/twtxt.txt> Netlify is awesome, I used to use it for all of my stuff until recently
 2020-08-05T09:00:33+02:00	No idea why, but I always really enjoy writing unit tests and fixing / refactoring things as a part of that. 
 2020-08-05T09:52:25+02:00	@<lucidiot https://tilde.town/~lucidiot/twtxt.txt> that's not *that* bad, and it is not uncommon to see the HTTP side of things become like that when you use automagic abstractions in stuff like .NET Framework
+2020-08-05T10:52:35+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re-unit testing) I would, if I used it. If I were you, I would instead make implementing unit test and fixing linting on the parts that have been touched in a PR requirement for approval
