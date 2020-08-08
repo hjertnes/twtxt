@@ -172,3 +172,4 @@
 2020-08-06T19:35:45+02:00	NuMetal is NotMetal
 2020-08-07T11:47:16+02:00	@<mdosch https://mdosch.de/twtxt.txt> Haven't been listening to metal in years, but at this point metal metal is probably a thing 😂
 2020-08-08T08:00:29+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> are you really fixing bugs on IE? It is so old and have so little use that we don't even support it at work
+2020-08-08T08:42:44+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> I can also edit my twtxt; because it is a file on my computer 😏
