@@ -174,3 +174,4 @@
 2020-08-08T08:00:29+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> are you really fixing bugs on IE? It is so old and have so little use that we don't even support it at work
 2020-08-08T08:42:44+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> I can also edit my twtxt; because it is a file on my computer 😏
 2020-08-08T10:43:54+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> re IE) It's your project :) I just know that would not have been something I'd support 😅
+2020-08-08T12:50:33+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re IE) I do agree with that. But I also think that it is perfectly fine to chose what you want to support.
