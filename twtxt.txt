@@ -180,3 +180,4 @@
 2020-08-09T09:09:50+02:00	Just did some cleanup in the feeds I follow. Decided to get rid of a lot of feeds that didn't look like they were active
 2020-08-09T09:13:34+02:00	Getting close to be done with the changes I started doing to how I build my wiki yesterday
 2020-08-09T10:46:29+02:00	Changes to https://hjertnes/wiki is done. The short version is that I have moved it back to using ox-hugo and hugo instead of just a giant HTML file generated with pandoc. Still working to bring back some of the stuff I really liked about the giant HTML file
+2020-08-09T12:55:26+02:00	Sun outside today. Always mixed feelings about that. On one side it is nice weather, but that also means I have to cut the grass in my garden
