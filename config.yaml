@@ -2,10 +2,6 @@ nick: hjertnes
 url: https://hjertnes.social/twtxt.txt
 file: ~/Code/twtxt/twtxt.txt
 following:
-  71m: https://timmorgan.org/twtxt.txt
-  akraut: https://akraut.keybase.pub/twtxt.txt
-  alip: https://dev.exherbo.org/~alip/twtxt.txt
-  autoalk: http://autoalk.tk/twtxt/autoalk.txt
   benaiah: https://benaiah.me/twtxt.txt
   c-keen: http://pestilenz.org/~ckeen/twtxt.txt
   clementd: http://clementd-files.cellar.services.clever-cloud.com/twtxt.txt
