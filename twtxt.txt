@@ -179,3 +179,4 @@
 2020-08-08T20:34:37+02:00	Dammit @<eli_oat https://txt.eli.li/twtxt/twtxt.txt> for getting me to think about re-doing my wiki
 2020-08-09T09:09:50+02:00	Just did some cleanup in the feeds I follow. Decided to get rid of a lot of feeds that didn't look like they were active
 2020-08-09T09:13:34+02:00	Getting close to be done with the changes I started doing to how I build my wiki yesterday
+2020-08-09T10:46:29+02:00	Changes to https://hjertnes/wiki is done. The short version is that I have moved it back to using ox-hugo and hugo instead of just a giant HTML file generated with pandoc. Still working to bring back some of the stuff I really liked about the giant HTML file
