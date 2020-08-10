@@ -189,3 +189,6 @@
 2020-08-10T09:22:55+02:00	Back to Terminal.app because there is some weird issue with iTerm2 and fish on my machine
 2020-08-10T09:29:05+02:00	One more week of vacation before I'm going back to work
 2020-08-10T09:43:36+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> Maybe. I just made my own thing mostly from scratch because I realized that it would be a lot of work to rewrite @<twet > to be like I wanted it to be. What is the purpose of twt?
+2020-08-10T15:42:30+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> Like everything else related to twtxt.net it is partly me not using it, and partly because I don't have enough time to do everything
+2020-08-10T15:42:45+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> emacs is awesome
+2020-08-10T15:42:49+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> org is awesome
