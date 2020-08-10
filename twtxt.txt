@@ -192,3 +192,4 @@
 2020-08-10T15:42:30+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> Like everything else related to twtxt.net it is partly me not using it, and partly because I don't have enough time to do everything
 2020-08-10T15:42:45+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> emacs is awesome
 2020-08-10T15:42:49+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> org is awesome
+2020-08-10T15:48:05+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> how long is it?
