@@ -186,3 +186,4 @@
 2020-08-10T08:15:45+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re-garden) Where is the 🦘 and 🐊 and 🐨??!
 2020-08-10T08:19:55+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re-garden) Where is the 🦘 and 🐊 and 🐨??!
 2020-08-10T09:18:16+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> Hahaha. Only thing missing there would have been some AC/DC reference and a Crocodile Dundee joke 😅
+2020-08-10T09:22:55+02:00	Back to Terminal.app because there is some weird issue with iTerm2 and fish on my machine
