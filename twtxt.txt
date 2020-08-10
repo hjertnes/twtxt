@@ -195,3 +195,4 @@
 2020-08-10T15:48:05+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> how long is it?
 2020-08-10T18:01:38+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> the og terminal is fine, but I do miss being able to hit Control twice to get a temrinal over everything else
 2020-08-10T18:04:22+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> the bug is only there some times, and with the magic of tmux I can use both
+2020-08-10T19:34:03+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> I think Figma is awesome, probably overkill for wireframing, but it is awesome for working with implementing full interactive designs at work. How about Adobe xd?
