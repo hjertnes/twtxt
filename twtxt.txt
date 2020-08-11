@@ -201,3 +201,4 @@
 2020-08-10T23:14:21+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> time to invest in a red hat?
 2020-08-11T09:36:28+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re the 2009 thing) Money complicates everything
 2020-08-11T10:14:19+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (decentral twitter) it can be done, and the hard part is not technical. The hard problem is to get enough people to use it and being able to make money in a non horrible way that is sustainable
+2020-08-11T10:15:00+02:00	Emacs 27.1 is out!
