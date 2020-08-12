@@ -214,3 +214,4 @@
 2020-08-12T15:29:10+02:00	My favourite thing about Mastodon is how the community have embraced weird and awesome ways to use all kinds of .tld's
 2020-08-12T16:40:05+02:00	Everyone who care about a open web should use something that isn't based on Chrome / Blink
 2020-08-12T19:28:20+02:00	I'm sick of reading dumb opinions about Mozilla for today
+2020-08-12T19:54:03+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> are you still trying to do that?
