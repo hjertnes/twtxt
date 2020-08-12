@@ -207,3 +207,4 @@
 2020-08-11T18:47:27+02:00	I wish people tried to understand why things are like that, before complaining
 2020-08-11T19:54:56+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> whispers: you could just steal my ox-hugo and hugo setup?
 2020-08-12T07:22:02+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (tiktok tracking) Users are tracked for a number of different reasons. One of them is that the data itself is something that can be sold directly or indirectly, like Facebook or Google's ad platform does. Some of the tracking is needed to give advertisers the data they want. And sometimes it is used to discover problems in your UI or to test changes to your UI. It is easy to say 'why do we need this?'. But the reality is very different when you start a company, with employees and investors .
+2020-08-12T08:56:51+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> Yeah, but I know. But tracking is a more complex issue than good / bad.
