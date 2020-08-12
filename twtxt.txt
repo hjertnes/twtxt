@@ -212,3 +212,4 @@
 2020-08-12T13:44:51+02:00	Why can't Mozilla just add some premium subscription to Firefox? A lot of people would probably support them without any extra features
 2020-08-12T14:24:06+02:00	Why can't it always be not too hot and not too warm?
 2020-08-12T15:29:10+02:00	My favourite thing about Mastodon is how the community have embraced weird and awesome ways to use all kinds of .tld's
+2020-08-12T16:40:05+02:00	Everyone who care about a open web should use something that isn't based on Chrome / Blink
