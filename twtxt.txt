@@ -211,3 +211,4 @@
 2020-08-12T13:43:47+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> just click the link 🙄
 2020-08-12T13:44:51+02:00	Why can't Mozilla just add some premium subscription to Firefox? A lot of people would probably support them without any extra features
 2020-08-12T14:24:06+02:00	Why can't it always be not too hot and not too warm?
+2020-08-12T15:29:10+02:00	My favourite thing about Mastodon is how the community have embraced weird and awesome ways to use all kinds of .tld's
