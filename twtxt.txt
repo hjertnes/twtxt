@@ -232,3 +232,4 @@
 2020-08-13T18:55:16+02:00	The joy of fixing lint errors
 2020-08-13T20:29:39+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> put butter and mayo on the bread before you put shrimp on it. It's kosher then
 2020-08-13T20:41:12+02:00	When I mention someone on mastodon instead of twtxt 🙈
+2020-08-13T20:42:46+02:00	https://linearb.io/blog/jira-is-a-microcosm-of-whats-broken-in-software-development/
