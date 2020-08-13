@@ -230,3 +230,4 @@
 2020-08-13T10:08:49+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re HTMl preview of twtxt) I have never said I wondered why, I just don't want it in its current form
 2020-08-13T17:21:27+02:00	Seems like the bug a few days ago is not a part of iTerm, because it just showed up in it and Terminal.app. Most likely a bug in fish
 2020-08-13T18:55:16+02:00	The joy of fixing lint errors
+2020-08-13T20:29:39+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> put butter and mayo on the bread before you put shrimp on it. It's kosher then
