@@ -220,3 +220,4 @@
 2020-08-13T08:06:12+02:00	MDN: https://developer.mozilla.org/en-US/ is something every web developer knows, and I consider it one of the most important web development documentation site on the web
 2020-08-13T08:08:34+02:00	It takes a lot to make a browser engine, and it cost a lot of money. You need to make it compliant with the standards, and be fast. And work with all kinds of weird edge cases. You also have the security stuff. On top of all of this you also need to be a part of the working groups that draft the future standards
 2020-08-13T08:09:32+02:00	All of this cost money. A lot of it. And the best way to make sure three engines won't become two and two won't become one is that you use a non Chrome browser
+2020-08-13T08:10:56+02:00	When we have had one player that dominated (IE) the web stagnated. It is important that this doesn't happen
