@@ -224,3 +224,4 @@
 2020-08-13T08:41:14+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (Mozilla) they have a Sponsor site on Mozilla.org. If you care about this you should use Firefox
 2020-08-13T08:59:34+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (aboutfeeds) doesn't look like that here 🤔
 2020-08-13T09:00:35+02:00	Oh great. Rain... That fucks up my plan on paining the foundation of my house today.
+2020-08-13T09:10:08+02:00	I really freaking love the ability to write some projects as taskpaper in Emacs, and then copy paste it into OmniFocus
