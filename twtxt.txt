@@ -235,3 +235,4 @@
 2020-08-13T20:42:46+02:00	https://linearb.io/blog/jira-is-a-microcosm-of-whats-broken-in-software-development/
 2020-08-13T20:53:36+02:00	Are there any open source or more compatible with open source platforms like patreon?
 2020-08-13T20:57:02+02:00	The next time you get the idea to make another podcast/youtube channel with mostly white cis dudes. Don't. Learn to make pizza instead.
+2020-08-13T20:58:17+02:00	Autoplay is the worst feature ever
