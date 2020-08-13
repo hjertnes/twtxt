@@ -228,3 +228,4 @@
 2020-08-13T09:11:03+02:00	I didn't expect this, but since writing the HTML preview of my twtxt timeline, I use it all the time, and never the cli one
 2020-08-13T09:22:23+02:00	If you are about a Open Web and use Chrome or something based on it, you talk the talk, but you don't walk the walk
 2020-08-13T10:08:49+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re HTMl preview of twtxt) I have never said I wondered why, I just don't want it in its current form
+2020-08-13T17:21:27+02:00	Seems like the bug a few days ago is not a part of iTerm, because it just showed up in it and Terminal.app. Most likely a bug in fish
