@@ -239,3 +239,4 @@
 2020-08-14T10:33:57+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> butter late than never
 2020-08-14T18:17:14+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> (PHP 8) A lot of features from modern C# in that list
 2020-08-14T18:23:20+02:00	PHP is one ugly language 🙊
+2020-08-14T19:02:32+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> it is horrible, but it was the thing I learnt to code with
