@@ -241,3 +241,4 @@
 2020-08-14T18:23:20+02:00	PHP is one ugly language 🙊
 2020-08-14T19:02:32+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> it is horrible, but it was the thing I learnt to code with
 2020-08-15T07:09:24+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re PHP) not embarassed, but I have moved on to things I enjoy more. I also used PHP in the pre-framework days just when Wordpress started out, so it is probably very different
+2020-08-15T07:10:06+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> (re PHP) just give it up 🙄
