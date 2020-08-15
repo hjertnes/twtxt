@@ -244,3 +244,4 @@
 2020-08-15T07:10:06+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> (re PHP) just give it up 🙄
 2020-08-15T08:00:53+02:00	Replaced fish with zsh for now, that autosuggestion bug drove me nuts. My initial impression: the syntax for setting env variables in fish is SO MUCH BETTER.
 2020-08-15T08:02:07+02:00	Wait. There is a brand called douchebags?
+2020-08-15T08:24:43+02:00	There is this thing called Rome that tries to unify a lot of front end dev tooling. Would be funny if the thing after that one would be called Constantinople
