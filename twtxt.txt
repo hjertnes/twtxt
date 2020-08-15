@@ -243,3 +243,4 @@
 2020-08-15T07:09:24+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re PHP) not embarassed, but I have moved on to things I enjoy more. I also used PHP in the pre-framework days just when Wordpress started out, so it is probably very different
 2020-08-15T07:10:06+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> (re PHP) just give it up 🙄
 2020-08-15T08:00:53+02:00	Replaced fish with zsh for now, that autosuggestion bug drove me nuts. My initial impression: the syntax for setting env variables in fish is SO MUCH BETTER.
+2020-08-15T08:02:07+02:00	Wait. There is a brand called douchebags?
