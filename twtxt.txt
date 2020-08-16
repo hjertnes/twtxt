@@ -251,3 +251,4 @@
 2020-08-16T07:42:33+02:00	I forget about having ForkLift installed most of the time, but when I remember it I enjoy it so much more than Finder
 2020-08-16T07:49:41+02:00	Fixed a timeout issue in tw.txt because @<prologic https://twtxt.net/user/prologic/twtxt.txt>
 2020-08-16T07:51:14+02:00	I should learn to keep my mouth shut
+2020-08-16T07:53:39+02:00	Re-watched 300 yesterday. Most of it I was wondering: who is that actor? Before I realized it was McNulty from The Wire
