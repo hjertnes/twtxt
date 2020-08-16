@@ -249,3 +249,4 @@
 2020-08-15T19:53:18+02:00	A lot of why I'm changing jobs is because I want to work on a Mac
 2020-08-15T19:53:47+02:00	The rest is about me wanting to work for someone who take employee happiness seriously
 2020-08-16T07:42:33+02:00	I forget about having ForkLift installed most of the time, but when I remember it I enjoy it so much more than Finder
+2020-08-16T07:49:41+02:00	Fixed a timeout issue in tw.txt because @<prologic https://twtxt.net/user/prologic/twtxt.txt>
