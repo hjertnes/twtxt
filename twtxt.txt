@@ -255,3 +255,4 @@
 2020-08-16T08:05:45+02:00	There may be unlikely that Firefox survive in the long run, but I'm still going to continue using it for as long as possible
 2020-08-16T19:37:46+02:00	Back to work tomorrow
 2020-08-17T04:42:16+02:00	https://support.apple.com/en-us/HT201236
+2020-08-17T16:29:52+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re timeout) just that your feed took over 2 seconds to load in some cases
