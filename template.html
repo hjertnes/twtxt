@@ -13,8 +13,8 @@
   <p>Rendered on {{.Timestamp}}</p>
     {{ range .Timeline }}
     
-    <div class="{{.Classes}}">
-        <h2><a href="{{ .URL }}">@{{ .Handle }}</a> on {{ .Timestamp.Format "2006-01-02T15:04:05" }}</h2>
+    <div class={{.Classes}}>
+        <h2><a href={{ .URL }}>@{{ .Handle }}</a> on {{ .Timestamp.Format "2006-01-02T15:04:05" }}</h2>
         {{ .Message }}
     </div>
     {{ end }}
