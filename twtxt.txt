@@ -257,3 +257,4 @@
 2020-08-17T04:42:16+02:00	https://support.apple.com/en-us/HT201236
 2020-08-17T16:29:52+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re timeout) just that your feed took over 2 seconds to load in some cases
 2020-08-17T16:31:56+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re posting) Sometimes I have written stuff I want to post on my phone and then I just post them as fast as I can type them once I get to a real computer
+2020-08-17T16:33:04+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re keyboard shortcuts) That is how I have typed emoji on my Mac since like always... How did you do it in the past?
