@@ -262,3 +262,4 @@
 2020-08-17T18:40:15+02:00	Haha. When I'm throwing frisbee with my dog in the yard, and she's tired and don't want to run run anymore she just walks back inside
 2020-08-17T19:47:42+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> if you had used my client that @<mention > would have worked 🙈
 2020-08-17T20:40:09+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> this @<jack http://tilde.club/~jbaty/twtxt.txt>
+2020-08-18T08:30:17+02:00	When we're done renaming our default git branches, maybe black and white list is a good symbolic fight to take next?
