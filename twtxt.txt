@@ -266,3 +266,4 @@
 2020-08-18T14:42:10+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> "implementing" swagger is usually just adding a package to your backend...
 2020-08-18T14:47:09+02:00	https://github.com/roam-unofficial/roam-toolkit
 2020-08-18T18:17:18+02:00	Testing out Safari instead of Firefox on my MacBook, uses less than half the amount of RAM for the same web sites
+2020-08-18T18:52:50+02:00	Testing out dark mode in OS X again for the first time since the day it came out
