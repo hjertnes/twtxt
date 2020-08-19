@@ -272,3 +272,4 @@
 2020-08-19T13:49:14+02:00	My collection of notes are in a better state, after the move to roam than they have been in years
 2020-08-19T16:23:34+02:00	I wonder what fraction of revolutions are French
 2020-08-19T16:40:14+02:00	When I see one of these automatic rest API for your database thingies, I hope nobody are dumb enough to expose that to their web app
+2020-08-19T19:30:50+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> I always hate VB
