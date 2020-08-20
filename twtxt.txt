@@ -274,3 +274,4 @@
 2020-08-19T16:40:14+02:00	When I see one of these automatic rest API for your database thingies, I hope nobody are dumb enough to expose that to their web app
 2020-08-19T19:30:50+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> I always hate VB
 2020-08-19T19:45:56+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> (re France) Sure, but that would take the fun out of that joke
+2020-08-20T19:08:11+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> what the hell is band camp? Isn't that the thing the red head in American Pie keeps talking about?
