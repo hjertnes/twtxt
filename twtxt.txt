@@ -276,3 +276,4 @@
 2020-08-19T19:45:56+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> (re France) Sure, but that would take the fun out of that joke
 2020-08-20T19:08:11+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> what the hell is band camp? Isn't that the thing the red head in American Pie keeps talking about?
 2020-08-21T05:43:20+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> what are the updates?
+2020-08-22T11:45:47+02:00	Working on moving my wiki to a Roam database. Going a lot faster and easier than expected
