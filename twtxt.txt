@@ -280,3 +280,4 @@
 2020-08-22T19:50:24+02:00	My wiki as a Roam database https://roamresearch.com/\#/app/HjertnesWiki
 2020-08-22T20:16:04+02:00	Why haven't I started watching Killing Eve before?
 2020-08-25T04:54:50+02:00	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (re-lisp) lisps can be confusing in the start. But not that hard if you remember three things, 1: it is oposite of C func(param1 param2) (func param1 param2) 2: everything is a value, some values are functions 3: the code is just lists
+2020-08-25T13:57:48+02:00	Most annoying thing about using a mask is that FaceID don't work
