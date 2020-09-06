@@ -298,3 +298,4 @@
 2020-09-04T07:00:37+02:00	Testing out Reeder instead of ReadKit as RSS app on my Mac
 2020-09-04T18:31:50+02:00	Re-watching The Umbrella Acadamy
 2020-09-04T20:54:59+02:00	Some statis from my Org-Roam: 518 files, 471 tags and 4427 links.
+2020-09-06T17:58:16+02:00	Yay. Dishwasher broke...
