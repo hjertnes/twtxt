@@ -302,3 +302,4 @@
 2020-09-07T17:16:51+02:00	Feeling like an old man, using a light theme in Emacs
 2020-09-08T16:50:29+02:00	I wish slack had block and filter features
 2020-09-10T07:50:13+02:00	Restarting my work computer again because backspace stopped working. I hate windows
+2020-09-10T12:57:50+02:00	I've seen so many mask wearing failures today...
