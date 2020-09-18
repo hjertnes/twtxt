@@ -307,3 +307,4 @@
 2020-09-10T18:00:32+02:00	After years of on and off learning French of Duolingo I feel proud that when I see a tweet in French I usually understand some of the words
 2020-09-11T10:09:10+02:00	If you notify people, don't send a text, email and push notification or at least give me the option to configure it..
 2020-09-15T19:34:28+02:00	Are there some Apple event today?
+2020-09-18T06:03:18+02:00	tmux inception
