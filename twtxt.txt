@@ -309,3 +309,4 @@
 2020-09-15T19:34:28+02:00	Are there some Apple event today?
 2020-09-18T06:03:18+02:00	tmux inception
 2020-09-23T08:59:47+02:00	The firefox issue that broke home.hjertnes.blog have finally been resolved
+2020-09-23T09:00:46+02:00	@<eli_oat https://txt.eli.li/twtxt/twtxt.txt> don't have a tester team... they should be integrated with the development team
