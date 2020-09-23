@@ -308,3 +308,4 @@
 2020-09-11T10:09:10+02:00	If you notify people, don't send a text, email and push notification or at least give me the option to configure it..
 2020-09-15T19:34:28+02:00	Are there some Apple event today?
 2020-09-18T06:03:18+02:00	tmux inception
+2020-09-23T08:59:47+02:00	The firefox issue that broke home.hjertnes.blog have finally been resolved
